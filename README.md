@@ -7,6 +7,8 @@ The rule of thumb here is not to use online services as you can.
 
 ![google-403](./img/google-403.png)
 
+Iranian and all other peoples have right to use free services just like the other peoples. these sanctions are just like the justice that didn't happen to the black people so Iranian_Lives_Matter just like all the people around the world.
+
 ## Gmail
 
 I have switched to [Tutanota](https://mail.tutanota.com/) instead of gmail. the experience is great and you can buy its subscription with the help of [Iranicard](https://www.iranicard.ir/) without any problem.
