@@ -16,11 +16,5 @@ Firefox is awesome 💃
 ## Container Registry
 Github container registry is faster, free and respects nationalities.
 
-## Instagram
-I don't use it and after that I have happier life
-
-## Twitter
-I don't use it and after that I have happier life
-
 ## Notes
 I have wrote my notes on emacs and sync it with Github.
