@@ -23,4 +23,4 @@ I don't use it and after that I have happier life
 I don't use it and after that I have happier life
 
 ## Notes
-I have stored my notes on emacs and sync it with Github.
+I have wrote my notes on emacs and sync it with Github.
