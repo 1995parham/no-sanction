@@ -30,7 +30,7 @@ Github container registry is faster, free and respects nationalities.
 
 ## Google Keep
 
-I write my notes on emacs and sync it with Github.
+I write my notes on emacs [org-mode](https://orgmode.org/) and sync it with Github.
 
 ## Overleaf
 
