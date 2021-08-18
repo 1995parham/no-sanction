@@ -35,3 +35,6 @@ Languages like [Rust](https://ziglang.org/) or [Zig](https://www.rust-lang.org/)
 
 ## Dropbox, Google Drive
 I use [Syncthing](https://github.com/syncthing/syncthing) to share files between my system without any issue.
+
+## Operating Syste
+I use [Arch](https://archlinux.org/) without any problem and also it has mirrors in Iran. I am currently isntall arch on Macbook Pro 2017 without problem.
