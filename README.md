@@ -5,27 +5,26 @@
 There are many unfair sanctions on our country, here I want to describe the ways in which I can switch services and etc to have nicer experience with whom respects my nationality.
 The rule of thumb here is not to use online services as you can.
 
-## Mail
+## Gmail
 
 I have switched to [Tutanota](https://mail.tutanota.com/) instead of gmail. the experience is great and you can buy its subscription with the help of [Iranicard](https://www.iranicard.ir/) without any problem.
 
-## Password Manager
 
-I store my passwords using [gopass](https://github.com/gopasspw/gopass) on Github.
+## Chrome
 
-## Browser and Bookmarks
+### Browser and Bookmarks
 
 Firefox is awesome 💃
 
-## Repositories
+### Password Manager
 
-Github is an awesome place to code, share and review them. It supports Iran without any problem right now.
+I store my passwords using [gopass](https://github.com/gopasspw/gopass) on Github.
 
-## Container Registry
+## DockerHub
 
 Github container registry is faster, free and respects nationalities.
 
-## Notes
+## Google Keep
 
 I write my notes on emacs and sync it with Github.
 
@@ -45,7 +44,3 @@ Languages like [Rust](https://ziglang.org/) or [Zig](https://www.rust-lang.org/)
 ## Dropbox, Google Drive
 
 I use [Syncthing](https://github.com/syncthing/syncthing) to share files between my system without any issue.
-
-## Operating Syste
-
-I use [Arch](https://archlinux.org/) without any problem and also it has mirrors in Iran. I have currently installed arch on Macbook Pro 2017 without problem.
