@@ -2,12 +2,10 @@
 
 ## Introduction
 
+![google-403](./img/google-403.png)
+**Tired of seeing this page?** Have you ever wondered why you should even face this problem? If you think you DO DESERVE a normal life like others all around the worlds, stand up for your rights.<br/>
 There are many unfair sanctions on our country, here I want to describe the ways in which I can switch services and etc to have nicer experience with whom respects my nationality.
 The rule of thumb here is not to use online services as you can.
-
-![google-403](./img/google-403.png)
-
-Iranian and all other peoples have right to use free services just like the other peoples. these sanctions are just like the justice that didn't happen to the black people so Iranian_Lives_Matter just like all the people around the world.
 
 ## Gmail
 
