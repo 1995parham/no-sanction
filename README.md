@@ -7,11 +7,11 @@ The rule of thumb here is not to use online services as you can.
 
 ## Mail
 
-I have switched to [Tutanota](https://mail.tutanota.com/) instead of gmail. the experience is great and you have buy its subscription with the help of [Iranicard](https://www.iranicard.ir/) without any problem.
+I have switched to [Tutanota](https://mail.tutanota.com/) instead of gmail. the experience is great and you can buy its subscription with the help of [Iranicard](https://www.iranicard.ir/) without any problem.
 
 ## Password Manager
 
-I store my passwords with [gopass](https://github.com/gopasspw/gopass) on Github.
+I store my passwords using [gopass](https://github.com/gopasspw/gopass) on Github.
 
 ## Browser and Bookmarks
 
@@ -19,7 +19,7 @@ Firefox is awesome 💃
 
 ## Repositories
 
-Github is an awesome place to code, share and review them. It has support Iran without any problem right now.
+Github is an awesome place to code, share and review them. It supports Iran without any problem right now.
 
 ## Container Registry
 
@@ -40,7 +40,7 @@ I use emacs for my tasks, tracking them and etc. without any problem. I also syn
 ## Golang
 
 Sadly I must use golang because it is my primary language but sites like [go.dev](https://go.dev/) is free but currenltly I am trying to switch.
-Languages like [Rust](https://ziglang.org/) or [Zig](https://www.rust-lang.org/) is free and awesome replacement for Go.
+Languages like [Rust](https://ziglang.org/) or [Zig](https://www.rust-lang.org/) are free and awesome replacement for Go.
 
 ## Dropbox, Google Drive
 
@@ -48,4 +48,4 @@ I use [Syncthing](https://github.com/syncthing/syncthing) to share files between
 
 ## Operating Syste
 
-I use [Arch](https://archlinux.org/) without any problem and also it has mirrors in Iran. I am currently isntall arch on Macbook Pro 2017 without problem.
+I use [Arch](https://archlinux.org/) without any problem and also it has mirrors in Iran. I have currently installed arch on Macbook Pro 2017 without problem.
