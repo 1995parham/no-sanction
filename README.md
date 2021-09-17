@@ -33,6 +33,9 @@ I store my passwords using [gopass](https://github.com/gopasspw/gopass) on Githu
 
 Github container registry is faster, free and respects nationalities.
 
+### Docker
+[Podman](https://github.com/containers/podman) is a safer alternative to docker with a more welcoming community.
+
 ### Google Keep
 
 I write my notes on emacs [org-mode](https://orgmode.org/) and sync it with Github.
