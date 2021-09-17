@@ -14,7 +14,7 @@ The rule of thumb here is not to use online services as you can.
 
 - [Awesome Privacy](https://github.com/pluja/awesome-privacy)
 
-## Services
+## Services ⚙️
 ### Gmail
 
 I have switched to [Tutanota](https://mail.tutanota.com/) instead of gmail. the experience is great and you can buy its subscription with the help of [Iranicard](https://www.iranicard.ir/) without any problem.
