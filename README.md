@@ -17,7 +17,7 @@ If you've substituted a service with a one under sanctions and you are satisfied
 ## Resources
 
 - [Awesome Privacy](https://github.com/pluja/awesome-privacy)
-- [Sites that sanction Iran](https://gist.github.com/alibo/dfd7c258bcc44a0e8c9f7c5bfd3bd2c3)
+- [Sites that sanctiones Iran](https://gist.github.com/alibo/dfd7c258bcc44a0e8c9f7c5bfd3bd2c3)
 
 ## Services ⚙️
 
