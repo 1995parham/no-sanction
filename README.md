@@ -4,7 +4,6 @@
 
 ![google-403](./img/google-403.png)
 
-
 **Tired of seeing this page?** Have you ever wondered why you should even face this problem? If you think you DO DESERVE a normal life like others all around the world, stand up for your rights.
 
 There are many unfair sanctions on our country, here I want to describe the ways in which I can switch services and etc to have nicer experience with whom respects my nationality.
@@ -15,6 +14,7 @@ The rule of thumb here is not to use online services as you can.
 - [Awesome Privacy](https://github.com/pluja/awesome-privacy)
 
 ## Services ⚙️
+
 ### Gmail
 
 I have switched to [Tutanota](https://mail.tutanota.com/) instead of gmail. the experience is great and you can buy its subscription with the help of [Iranicard](https://www.iranicard.ir/) without any problem.
@@ -34,6 +34,7 @@ I store my passwords using [gopass](https://github.com/gopasspw/gopass) on Githu
 Github container registry is faster, free and respects nationalities.
 
 ### Docker
+
 [Podman](https://github.com/containers/podman) is a safer alternative to docker with a more welcoming community.
 
 ### Google Keep
