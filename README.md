@@ -50,8 +50,8 @@ I use emacs for my tasks, tracking them and etc. without any problem. I also syn
 
 ### Golang
 
-Sadly I must use golang because it is my primary language but sites like [go.dev](https://go.dev/) is free but currenltly I am trying to switch.
-Languages like [Rust](https://ziglang.org/) or [Zig](https://www.rust-lang.org/) are free and awesome replacement for Go.
+Sadly I must use golang because it is my primary language but sites like [go.dev](https://go.dev/) is free but currently I am trying to switch.
+Languages like [Rust](https://www.rust-lang.org/) or [Zig](https://ziglang.org/) are free and awesome replacement for Go.
 
 ### Dropbox, Google Drive
 
