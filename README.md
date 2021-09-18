@@ -11,6 +11,9 @@
 There are many unfair sanctions against our country, here I want to describe the ways in which I can switch services and etc to have nicer experience with whom respects my nationality.
 The rule of thumb here is not to use online services as you can.
 
+## Do you have some sympathy too?
+If you've substituted a service with a one under sanctions and you are satisfied with it, let us all know!!!
+
 ## Resources
 
 - [Awesome Privacy](https://github.com/pluja/awesome-privacy)
