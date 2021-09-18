@@ -2,8 +2,10 @@
 
 ## Introduction
 
-![google-403](./img/google-403.png)
-
+<p align="center">
+  <img alt="google-403" src="./img/google-403.png" />
+</p>
+  
 **Tired of seeing this page?** Have you ever wondered why you should even face this problem? If you think you DO DESERVE a normal life like others all around the world, stand up for your rights.
 
 There are many unfair sanctions against our country, here I want to describe the ways in which I can switch services and etc to have nicer experience with whom respects my nationality.
