@@ -6,7 +6,7 @@
 
 **Tired of seeing this page?** Have you ever wondered why you should even face this problem? If you think you DO DESERVE a normal life like others all around the world, stand up for your rights.
 
-There are many unfair sanctions on our country, here I want to describe the ways in which I can switch services and etc to have nicer experience with whom respects my nationality.
+There are many unfair sanctions against our country, here I want to describe the ways in which I can switch services and etc to have nicer experience with whom respects my nationality.
 The rule of thumb here is not to use online services as you can.
 
 ## Resources
@@ -47,11 +47,11 @@ I write my latex document on my own system. with some scripts is far better than
 
 ### Trello
 
-I use emacs for my tasks, tracking them and etc. without any problem. I also sync them with Github
+I use emacs for my tasks, tracking them and etc. without any problem. I also sync them with Github.
 
 ### Golang
 
-Sadly I must use golang because it is my primary language but sites like [go.dev](https://go.dev/) is free but currently I am trying to switch.
+Sadly I must use golang because it is my primary language but sites like [go.dev](https://go.dev/) are free but currently I am trying to switch.
 Languages like [Rust](https://www.rust-lang.org/) or [Zig](https://ziglang.org/) are free and awesome replacement for Go.
 
 ### Dropbox, Google Drive
