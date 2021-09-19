@@ -17,7 +17,7 @@ If you've substituted a service with a one under sanctions and you are satisfied
 ## Resources
 
 - [Awesome Privacy](https://github.com/pluja/awesome-privacy)
-- [Sites that sanctiones Iran](https://gist.github.com/alibo/dfd7c258bcc44a0e8c9f7c5bfd3bd2c3)
+- [Sites that sanction Iran](https://gist.github.com/alibo/dfd7c258bcc44a0e8c9f7c5bfd3bd2c3)
 
 ## Services ⚙️
 
@@ -25,7 +25,7 @@ If you've substituted a service with a one under sanctions and you are satisfied
 
 [@1995parham](https://github.com/1995parham):
 I have switched to [Tutanota](https://mail.tutanota.com/) instead of gmail. the experience is great and you can buy its subscription with the help of [Iranicard](https://www.iranicard.ir/) without any problem.
-The switching process is easy but you must somehow let the others know about your new eamil and I am using the vacation responder of gmail.
+The switching process is easy but you must somehow let the others know about your new email and I am using the vacation responder of gmail.
 The persian support is good and its font also readable to me. it doesn't have any label system and cannot follow threads but I think these features are unique to gmail.
 I am using folders and archive emails instead of tagging them and follow thread manually by email itself.
 
@@ -116,3 +116,11 @@ Languages like [Rust](https://www.rust-lang.org/) or [Zig](https://ziglang.org/)
 
 [@1995parham](https://github.com/1995parham):
 I use [Syncthing](https://github.com/syncthing/syncthing) to share files between my system without any issue.
+
+### Tensorflow
+
+[@mhezarei](https://github.com/mhezarei): While developing Deep Learning models, one might need to read the framework's documents or download its pre-trained models. You need to get past the "sanction page" to do anything that needs downloading/loading from the Tensorflow website.
+
+[PyTorch](https://pytorch.org/), on the other hand, won't bother you with any of these difficulties, and you can develop and learn about Deep Learning without any worries. It is a well-known framework that doesn't need much of an introduction.
+
+PyTorch **will** provide you with almost everything Tensorflow offers with no form of sanctions or bans. You can read the website's documentation for more information.
