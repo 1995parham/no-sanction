@@ -5,14 +5,15 @@
 <p align="center">
   <img alt="google-403" src="./img/google-403.png" />
 </p>
-  
+
 **Tired of seeing this page?** Have you ever wondered why you should even face this problem? If you think you DO DESERVE a normal life like others all around the world, stand up for your rights.
 
-There are many unfair sanctions against our country, here I want to describe the ways in which I can switch services and etc to have nicer experience with whom respects my nationality.
-The rule of thumb here is not to use online services as you can.
+There are many unfair sanctions against our country. Here I want to describe the ways in which we can switch services to have a nicer experience with those who respect our nationality.
+The rule of thumb here is to avoid online services as much as you can.
 
 ## Do you have some sympathy too?
-If you've substituted a service with a one under sanctions and you are satisfied with it, let us all know!!!
+
+If you've replaced a service under sanctions with an alternative and you are satisfied with it, let us all know!
 
 ## Resources
 
@@ -24,28 +25,28 @@ If you've substituted a service with a one under sanctions and you are satisfied
 ### Gmail
 
 [@1995parham](https://github.com/1995parham):
-I have switched to [Tutanota](https://mail.tutanota.com/) instead of gmail. the experience is great and you can buy its subscription with the help of [Iranicard](https://www.iranicard.ir/) without any problem.
-The switching process is easy but you must somehow let the others know about your new email and I am using the vacation responder of gmail.
-The persian support is good and its font also readable to me. it doesn't have any label system and cannot follow threads but I think these features are unique to gmail.
-I am using folders and archive emails instead of tagging them and follow thread manually by email itself.
+I have switched to [Tutanota](https://mail.tutanota.com/) instead of Gmail. The experience is great, and you can buy its subscription with the help of [Iranicard](https://www.iranicard.ir/) without any problem.
+The switching process is easy, but you must somehow let others know about your new address; I am using Gmail's vacation responder for that.
+The Persian support is good, and its font is readable to me. It doesn't have any label system and cannot follow threads, but I think these features are unique to Gmail.
+I am using folders and archiving emails instead of tagging them, and I follow threads manually by the email itself.
 
 ### Chrome
 
 #### Browser and Bookmarks
 
 [@1995parham](https://github.com/1995parham):
-Firefox is awesome 💃. It works for me on reading and checking the websites. I don't use browsers for listening to music etc.
+Firefox is awesome 💃. It works for me for reading and checking websites. I don't use browsers for listening to music, etc.
 
 #### Password Manager
 
 [@1995parham](https://github.com/1995parham):
-I store my passwords using [gopass](https://github.com/gopasspw/gopass) on Github.
+I store my passwords using [gopass](https://github.com/gopasspw/gopass) on GitHub.
 
 ### DockerHub
 
 [@1995parham](https://github.com/1995parham):
-Github container registry is faster, free and respects nationalities. you only needs to build and push your images into it by using the github actions.
-consider the following example:
+GitHub Container Registry is faster, free, and respects nationalities. You only need to build and push your images into it by using GitHub Actions.
+Consider the following example:
 
 ```yaml
 docker:
@@ -85,42 +86,42 @@ docker:
 ### Docker
 
 [@1995parham](https://github.com/1995parham):
-[Podman](https://github.com/containers/podman) is a safer alternative to docker with a more welcoming community. I only use it on linux,
-and it needs more time to setup comparing to docker but it doesn't solve the dockerhub sanctions. you can check my setup from [dotfiles](https://github.com/1995parham/dotfiles/blob/main/scripts/podman.sh).
+[Podman](https://github.com/containers/podman) is a safer alternative to Docker with a more welcoming community. I only use it on Linux,
+and it takes more time to set up compared to Docker, but it doesn't solve the DockerHub sanctions. You can check my setup in [dotfiles](https://github.com/1995parham/dotfiles/blob/main/scripts/podman.sh).
 
 ### Google Keep
 
 [@1995parham](https://github.com/1995parham):
-I write my notes on emacs [org-mode](https://orgmode.org/) and sync it with Github. you need learn org-mode first and for it toke 3 or 4 weeks.
+I write my notes in Emacs [org-mode](https://orgmode.org/) and sync them with GitHub. You need to learn org-mode first, and that took me 3 or 4 weeks.
 
 ### Overleaf
 
 [@1995parham](https://github.com/1995parham):
-I write my latex document on my own system. with some scripts is far better than overleaf experience. you check my [dotfiles](https://github.com/1995parham/dotfiles/blob/main/scripts/tex.sh) to installing texlive.
+I write my LaTeX documents on my own system. With a few scripts it is far better than the Overleaf experience. You can check my [dotfiles](https://github.com/1995parham/dotfiles/blob/main/scripts/tex.sh) for installing TeX Live.
 
 [@elaheh-dastan](https://github.com/elaheh-dastan):
-I used to write my thesis in latex using overleaf, it's not only hard to write persian in overleaf but also makes me frustrated that everyday I should change my VPN cause the former one is recognized so I started to use emacs and keep the files on my github repo, even the experience of writing persian in emacs is way better.
+I used to write my thesis in LaTeX using Overleaf. Not only is it hard to write Persian in Overleaf, but it also frustrated me that every day I had to change my VPN because the former one had been recognized. So I started to use Emacs and keep the files in my GitHub repository, and even the experience of writing Persian in Emacs is way better.
 
 ### Trello
 
 [@1995parham](https://github.com/1995parham):
-I use emacs [org-mode](https://orgmode.org/) for my tasks, tracking them and etc. without any problem. I also sync them with Github.
+I use Emacs [org-mode](https://orgmode.org/) for my tasks and for tracking them, without any problem. I also sync them with GitHub.
 
 ### Golang
 
 [@1995parham](https://github.com/1995parham):
-Sadly I must use golang because it is my primary language but sites like [go.dev](https://go.dev/) are free but currently I am trying to switch.
-Languages like [Rust](https://www.rust-lang.org/) or [Zig](https://ziglang.org/) are free and awesome replacement for Go.
+Sadly I must use Go because it is my primary language, but sites like [go.dev](https://go.dev/) are free. Currently I am trying to switch.
+Languages like [Rust](https://www.rust-lang.org/) or [Zig](https://ziglang.org/) are free and awesome replacements for Go.
 
 ### Dropbox, Google Drive
 
 [@1995parham](https://github.com/1995parham):
-I use [Syncthing](https://github.com/syncthing/syncthing) to share files between my system without any issue.
+I use [Syncthing](https://github.com/syncthing/syncthing) to share files between my systems without any issue.
 
 ### Tensorflow
 
-[@mhezarei](https://github.com/mhezarei): While developing Deep Learning models, one might need to read the framework's documents or download its pre-trained models. You need to get past the "sanction page" to do anything that needs downloading/loading from the Tensorflow website.
+[@mhezarei](https://github.com/mhezarei): While developing Deep Learning models, one might need to read the framework's documentation or download its pre-trained models. You need to get past the "sanction page" to do anything that needs downloading/loading from the TensorFlow website.
 
 [PyTorch](https://pytorch.org/), on the other hand, won't bother you with any of these difficulties, and you can develop and learn about Deep Learning without any worries. It is a well-known framework that doesn't need much of an introduction.
 
-PyTorch **will** provide you with almost everything Tensorflow offers with no form of sanctions or bans. You can read the website's documentation for more information.
+PyTorch **will** provide you with almost everything TensorFlow offers with no form of sanctions or bans. You can read the website's documentation for more information.
