@@ -86,7 +86,7 @@ docker:
 
 [@1995parham](https://github.com/1995parham):
 [Podman](https://github.com/containers/podman) is a safer alternative to docker with a more welcoming community. I only use it on linux,
-and it needs more time to setup comparing to docker but it doesn't solve the dockerhub sanctions. you can check my setup from [dotfiles](https://github.com/1995parham/dotfiles/blob/main/scripts/docker.sh#L72).
+and it needs more time to setup comparing to docker but it doesn't solve the dockerhub sanctions. you can check my setup from [dotfiles](https://github.com/1995parham/dotfiles/blob/main/scripts/podman.sh).
 
 ### Google Keep
 
