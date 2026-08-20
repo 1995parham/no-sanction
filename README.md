@@ -89,6 +89,19 @@ docker:
 [Podman](https://github.com/containers/podman) is a safer alternative to Docker with a more welcoming community. I only use it on Linux,
 and it takes more time to set up compared to Docker, but it doesn't solve the DockerHub sanctions. You can check my setup in [dotfiles](https://github.com/1995parham/dotfiles/blob/main/scripts/podman.sh).
 
+### AWS, Google Cloud, Hetzner
+
+Signing up is the wall here: AWS and Google Cloud reject Iranian users outright, and Hetzner suspends accounts once the country is known. Iranian providers have no such problem, they take rial directly, and they keep latency inside the country.
+
+- [ArvanCloud](https://www.arvancloud.ir/en) offers a CDN, cloud servers, S3-compatible object storage, and managed Kubernetes.
+- [Hamravesh](https://hamravesh.com/) offers [managed Kubernetes](https://hamravesh.com/managed-kubernetes), [Darkube](https://hamravesh.com/darkube) as a PaaS on top of it, and a [container registry](https://docs.hamravesh.com/container-registry/introduction/) you can push to instead of DockerHub.
+- [Liara](https://liara.ir/) offers a PaaS with managed databases and object storage.
+- [Parspack](https://parspack.com/) offers VPSes, dedicated servers, and domains.
+
+If you want to move your repositories off GitHub as well, [hamgit.ir](https://hamgit.ir/) is a hosted GitLab.
+
+The tradeoff is worth stating plainly: these providers sit inside Iran, so they answer to local regulation in a way a foreign provider does not. That is a different set of constraints, not an absent one.
+
 ### Google Keep
 
 [@1995parham](https://github.com/1995parham):
