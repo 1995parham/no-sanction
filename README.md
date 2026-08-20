@@ -98,7 +98,7 @@ I write my notes on emacs [org-mode](https://orgmode.org/) and sync it with Gith
 [@1995parham](https://github.com/1995parham):
 I write my latex document on my own system. with some scripts is far better than overleaf experience. you check my [dotfiles](https://github.com/1995parham/dotfiles/blob/main/scripts/tex.sh) to installing texlive.
 
-[@elahe-dastan](https://github.com/elahe-dastan):
+[@elaheh-dastan](https://github.com/elaheh-dastan):
 I used to write my thesis in latex using overleaf, it's not only hard to write persian in overleaf but also makes me frustrated that everyday I should change my VPN cause the former one is recognized so I started to use emacs and keep the files on my github repo, even the experience of writing persian in emacs is way better.
 
 ### Trello
