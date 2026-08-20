@@ -55,15 +55,15 @@ docker:
     - lint
     - test
   steps:
-    - uses: actions/checkout@v2
-    - uses: docker/setup-qemu-action@v1
-    - uses: docker/setup-buildx-action@v1
-    - uses: docker/login-action@v1
+    - uses: actions/checkout@v7
+    - uses: docker/setup-qemu-action@v4
+    - uses: docker/setup-buildx-action@v4
+    - uses: docker/login-action@v4
       with:
         registry: ghcr.io
         username: ${{ github.repository_owner }}
         password: ${{ secrets.GITHUB_TOKEN }}
-    - uses: docker/metadata-action@v3
+    - uses: docker/metadata-action@v6
       id: meta
       with:
         images: ghcr.io/1995parham/saf
@@ -72,7 +72,7 @@ docker:
           type=ref,event=pr
           type=semver,pattern={{version}}
           type=semver,pattern={{major}}.{{minor}}
-    - uses: docker/build-push-action@v2
+    - uses: docker/build-push-action@v7
       with:
         file: "build/package/Dockerfile"
         context: .
